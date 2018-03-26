@@ -1,0 +1,2 @@
+Result Game Previous
+Server thắng , Client thua.
